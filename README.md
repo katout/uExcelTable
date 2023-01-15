@@ -1,0 +1,2 @@
+# uExcelTable
+Untiy上で動作するExcelを用いたMasterTable

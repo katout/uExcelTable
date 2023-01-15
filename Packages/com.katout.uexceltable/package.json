@@ -1,0 +1,16 @@
+{
+    "name": "com.katout.uexceltable",
+    "version": "0.0.1",
+    "displayName": "uExcelTable",
+    "description": "",
+    "unity": "2022.2",
+    "dependencies": {},
+    "keywords": [
+        "MasterTable",
+        "Excel"
+    ],
+    "author": {
+        "name": "katout",
+        "url": "https://twitter.com/kat_out"
+    }
+}
